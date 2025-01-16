@@ -1,0 +1,81 @@
+{
+  "veiculos": [
+    {
+      "id": 1,
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "ano": 2022,
+      "cor": "Prata",
+      "tipo": "Sedan",
+      "quilometragem": 15000,
+      "portas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2021,
+      "cor": "Preto",
+      "tipo": "Sedan",
+      "quilometragem": 20000,
+      "portas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "EcoSport",
+      "ano": 2020,
+      "cor": "Branco",
+      "tipo": "SUV",
+      "quilometragem": 30000,
+      "portas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2023,
+      "cor": "Vermelho",
+      "tipo": "Hatch",
+      "quilometragem": 10000,
+      "portas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "marca": "Volkswagen",
+      "modelo": "T-Cross",
+      "ano": 2022,
+      "cor": "Azul",
+      "tipo": "SUV",
+      "quilometragem": 12000,
+      "portas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "marca": "Hyundai",
+      "modelo": "HB20",
+      "ano": 2021,
+      "cor": "Cinza",
+      "tipo": "Hatch",
+      "quilometragem": 25000,
+      "portas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "marca": "Nissan",
+      "modelo": "Kicks",
+      "ano": 2023,
+      "cor": "Preto",
+      "tipo": "SUV",
+      "quilometragem": 8000,
+      "portas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    }
+  ]
+}
